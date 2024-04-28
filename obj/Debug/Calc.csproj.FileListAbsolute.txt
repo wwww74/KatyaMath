@@ -7,3 +7,12 @@ C:\Users\Максон\Desktop\katya\rep\Calc\obj\Debug\Calc.Properties.Resources
 C:\Users\Максон\Desktop\katya\rep\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
 C:\Users\Максон\Desktop\katya\rep\Calc\obj\Debug\Calc.exe
 C:\Users\Максон\Desktop\katya\rep\Calc\obj\Debug\Calc.pdb
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\bin\Debug\Calc.exe.config
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\obj\Debug\Calc.exe
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\obj\Debug\Calc.pdb
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\bin\Debug\Calc.exe
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\bin\Debug\Calc.pdb
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\obj\Debug\Calc.Form1.resources
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Максон\Desktop\katya\rep\KatyaMath\obj\Debug\Calc.csproj.GenerateResource.Cache

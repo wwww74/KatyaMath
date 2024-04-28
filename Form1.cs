@@ -129,12 +129,30 @@ namespace Calc
                 case "/":
                     textBox1.Text = (a / b).ToString();
                     break;
+
+                case "0":
+                    textBox1.Text = Math.Pow(a, b).ToString();
+                    break;
             }
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToInt32(textBox1.Text);
+            textBox1.Clear();
+            textBox1.Text = Math.Sqrt(a).ToString();
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToInt32(textBox1.Text);
+            textBox1.Clear();
+            znak = "0";
         }
     }
 }
